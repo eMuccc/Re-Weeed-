@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="110dp"
+    android:layout_height="150dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_daily_week_view"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:text="@string/week"
+        android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/iv_daily_img_weather"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/ic_launcher_foreground" />
+
+    <TextView
+        android:id="@+id/tv_daily_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/aqi"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/tv_daily_temp_view"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:text="@string/_0_0"
+        android:gravity="center"/>
+</LinearLayout>

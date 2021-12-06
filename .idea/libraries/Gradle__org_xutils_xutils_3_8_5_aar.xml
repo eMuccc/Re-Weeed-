@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.xutils:xutils:3.8.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e34d7826c70f44e923c23fe19769ae00/transformed/jetified-xutils-3.8.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e34d7826c70f44e923c23fe19769ae00/transformed/jetified-xutils-3.8.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e34d7826c70f44e923c23fe19769ae00/transformed/jetified-xutils-3.8.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xutils/xutils/3.8.5/5eabebf0cd2b367bbef757873b4c4ac126dd01ea/xutils-3.8.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xutils/xutils/3.8.5/ab9a76e064ba0a7595d4b5984903854d6ca68aef/xutils-3.8.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

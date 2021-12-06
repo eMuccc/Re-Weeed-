@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ReWeeed!</string>
+    <string name="undefin">undefin</string>
+    <string name="undefined">udf</string>
+    <string name="rua">未定义</string>
+    <string name="Y_M_D">Year-Moth-Day</string>
+    <string name="c">°C</string>
+    <string name="t">T</string>
+    <string name="x_x">X - X</string>
+    <string name="status">status</string>
+    <string name="_20">20</string>
+    <string name="_0_00">0:00</string>
+    <string name="t_t_t">ReWeeed!</string>
+    <string name="city">city</string>
+    <string name="_8_21">8°/21°</string>
+    <string name="updatetime">updateTime</string>
+    <string name="_00_00">00:00</string>
+    <string name="week">week</string>
+    <string name="aqi">AQI</string>
+    <string name="_0_0">0°/0°</string>
+    <string name="zwx">紫外线</string>
+    <string name="tgwd">体感温度</string>
+    <string name="jsl">降水量</string>
+    <string name="sd">湿度</string>
+    <string name="dqy">大气压</string>
+    <string name="njd">能见度</string>
+    <string name="yl">云量</string>
+    <string name="ldwd">露点温度</string>
+    <string name="emuc_inc_2021_9">eMuc Inc. 2021.12</string>
+    <string name="Xiaohe">本软件所有数据皆由和风天气提供</string>
+    <string name="zs">指数</string>
+    <string name="zszt">指数状态</string>
+</resources>
