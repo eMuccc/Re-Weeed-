@@ -20,7 +20,7 @@ public class HourlyWeatherAdapter extends RecyclerView.Adapter<HourlyWeatherAdap
     private final List<HourlyWeatherBean.HourlyDTO> mList;
 
     public HourlyWeatherAdapter(List<HourlyWeatherBean.HourlyDTO> mList) {
-        this.mList = mList;
+        this.mList = mList; 
     }
 
     static class ViewHolder extends RecyclerView.ViewHolder {
